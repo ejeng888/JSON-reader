@@ -1,0 +1,19 @@
+{
+	"Employee": [
+	{
+		"Id": "001",
+		"Name": "Peter",
+		"City": "Toronto"
+	},
+	{
+		"Id": "002",
+		"Name": "Michael",
+		"City": "New York"
+	},
+	{
+		"Id": "003",
+		"Name": "David",
+		"City": "Toronto"
+	}
+	]
+}
